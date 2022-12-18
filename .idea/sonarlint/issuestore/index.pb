@@ -27,15 +27,9 @@ Y
 )Example5/src/main/java/com/nhmk/Main.java,0\c\0cd2816174aa3b3dd9e7c35b3edd64ba793d27af
 @
 Example7/pom.xml,8\9\8959812a2b944092542d2840e9d3c659bfeed4d5
-b
-2Example7/src/main/java/com/nhmk/beans/Vehicle.java,b\7\b794448fa8942d53144f35551bbe53517c02bf28
 j
 :Example7/src/main/java/com/nhmk/configs/ProjectConfig.java,b\3\b3db926decd36c85f17b411e2448181b2d79998f
 Y
 )Example7/src/main/java/com/nhmk/Main.java,f\e\fea95903b8fea947166f9a62404ad664a0f64dca
-Y
-)Example6/src/main/java/com/nhmk/Main.java,d\2\d27791f10c41c872f87e33e485c0bd33a273e5ed
 @
 Example6/pom.xml,e\7\e75102cff91b5ede75a4edae4deebb6efb0291f8
-v
-FExample_18/src/main/java/com/nhmk/Example_18/Example18Application.java,3\4\34a4e7e60012b4b044ef94829ba7bf910c6b4e92
