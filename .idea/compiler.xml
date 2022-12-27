@@ -17,6 +17,7 @@
         <module name="Example3" />
         <module name="Example_12" />
         <module name="Example2" />
+        <module name="Example_13" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
